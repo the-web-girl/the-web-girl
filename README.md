@@ -37,12 +37,13 @@ src="https://img.shields.io/github/followers/the-web-girl?logo=github&style=for-
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem; list-style-type: none"><a href="https://www.buymeacoffee.com/inta11ysolutions"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/inta11ysolutions"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
+<ul style="list-style-type: none!important; margin: 0;">
+<li style="display: inline-block; margin-right: 0.25rem;">
+  <a href="https://www.buymeacoffee.com/inta11ysolutions"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+</li>
+<li style="display: inline-block; margin-right: 0.25rem;">
+  <a href="https://www.ko-fi.com/inta11ysolutions"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+</li>
 </ul><!--
 **the-web-girl/the-web-girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
