@@ -40,8 +40,6 @@ src="https://img.shields.io/github/followers/the-web-girl?logo=github&style=for-
 <div style="list-style-type: none!important; margin: 0;">
 <div style="display: inline-block; margin-right: 0.25rem;">
   <a href="https://www.buymeacoffee.com/inta11ysolutions"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-</div>
-<div style="display: inline-block; margin-right: 0.25rem;">
   <a href="https://www.ko-fi.com/inta11ysolutions"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 </div>
 </div><!--
