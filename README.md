@@ -7,7 +7,7 @@ Web Integrator & Web accessibility QA Tester
 Experienced in the design and integration of responsive, dynamic websites and web applications that comply with RGAA and WCAG, I am proficient in HTML5, CSS3, and JavaScript. \* ⚡ I create content to spread knowledge on my social media and portfolio. \* 🤝 I'm open to website audits and web integration training. \* 😸 Evolving and growing also means accepting that we make mistakes and learning from them. I'd like to share my knowledge with others.
 
 * 🌍  I'm based in France
-* 🖥️  See my portfolio at [MY PORTFOLIO](http://angelique-portfolio.web-i.org/)
+* 🖥️  See my portfolio at [MY PORTFOLIO](https://angelique-simon.inta11ysolutions.org/)
 * ✉️  You can contact me at [angelique@inta11ysolutions.org](mailto:angelique@inta11ysolutions.org)
 * 🚀  I'm currently working on [web integrator training (html, css, javascript, web accessibility (RGAA and WCAG))](http://angeliquejeanne.github.io/Coming-Soon-Cracked/)
 * 🧠  I'm learning Introduction to Web Accessibility by W3C & Full Stack Developer by IBM
