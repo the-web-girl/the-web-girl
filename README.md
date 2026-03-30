@@ -22,9 +22,8 @@ Experienced in the design and integration of responsive, dynamic websites and we
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/the-web-girl" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> </p>
-  <hr> 
- <p align="left"> <a href="https://www.linkedin.com/in/angelique-simon/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/the-web-girl" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture></a> 
+<a href="https://www.linkedin.com/in/angelique-simon/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
@@ -33,7 +32,7 @@ Experienced in the design and integration of responsive, dynamic websites and we
 <a href="https://github.com/the-web-girl">
   <img src="https://github-stats-the-web-girl.vercel.app/api?username=the-web-girl&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true" alt="the-web-girl's GitHub stats"/>
 </a>
-
+<hr>
 <a href="https://github.com/the-web-girl" align="left">
   <img src="https://github-stats-the-web-girl.vercel.app/api/top-langs/?username=the-web-girl&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages"/>
 </a>
