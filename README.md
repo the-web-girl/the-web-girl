@@ -28,8 +28,11 @@ Experienced in the design and integration of responsive, dynamic websites and we
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/the-web-girl"><img src="https://github-readme-stats.vercel.app/api?username=the-web-girl&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="the-web-girl's GitHub stats" /></a> <a href="https://github.com/the-web-girl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-web-girl&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/the-web-girl"><img src="https://github-stats-the-web-girl.vercel.app/" alt="the-web-girl's GitHub stats"/></a> 
+<a href="https://github.com/the-web-girl" align="left"><img src="https://github-stats-the-web-girl.vercel.app/api/top-langs/?username=the-web-girl&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"/></a>
 
+
+<a href="http://www.github.com/the-web-girl"><img src="https://github-readme-stats.vercel.app/api?username=the-web-girl&show_icons=true&hide=&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="the-web-girl's GitHub stats" /></a> <a href="https://github.com/the-web-girl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-web-girl&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 ### Support Me
 
 <div style="list-style-type: none!important; margin: 0;">
