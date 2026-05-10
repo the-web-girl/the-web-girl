@@ -17,14 +17,6 @@ Experienced in the design and integration of responsive, dynamic websites and we
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,vscode,sass,npm,nodejs,bootstrap,tailwind,figma)](https://skillicons.dev)
 
-<div style="display: inline-block; margin-right: 0.25rem;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-</div>
-
 ### Socials
 
 <p align="left"> 
