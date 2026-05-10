@@ -15,7 +15,7 @@ Experienced in the design and integration of responsive, dynamic websites and we
 * ⚡  I created courses and help sheets for web integrators, as well as content on accessibility and web integration.
 
 ### Skills
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,github,git)](https://skillicons.dev)
 <div style="display: flex, flex-direction: row ">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
