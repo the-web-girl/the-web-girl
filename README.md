@@ -14,6 +14,7 @@ Experienced in the design and integration of responsive, dynamic websites and we
 * 🤝  I'm open to collaborating on Website audits, website creation, and accessible web integration courses
 * ⚡  I created courses and help sheets for web integrators, as well as content on accessibility and web integration.
 
+<!--https://github.com/tandpfun/skill-icons/blob/main/readme.md-->
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,git,vscode,sass,npm,nodejs,bootstrap,tailwind,figma)](https://skillicons.dev)
 
